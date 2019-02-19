@@ -1,0 +1,154 @@
+body{
+	font-family: Segoe UI;
+	color: #fff;
+	font-size: 14px;
+	background-color: #000;
+	
+}
+
+header{
+	padding: 20px 0;
+}
+
+#hero {
+	background-image: url(../img/slider-3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+	
+}
+
+#hero h1 {
+	font-size: 80px;
+	font-weight: 700;
+	
+	
+	
+}
+
+#hero p{
+	font-size: 20px;
+}
+
+.btn-rectangulo {
+	background-color: transparent;
+	border:1px solid #fff;
+	color: #fff;
+	border-radius: 0;
+	padding: 10px 30px;
+	text-transform: lowercase;
+	font-weight: 600;
+		
+}
+
+.btn-rectangulo:hover {
+	background-color: #fff;
+	color: #000;
+	
+	
+}
+#service {
+	padding: 70px 0;
+}
+#service h3 {
+	margin: 0;
+}
+
+#service img {
+	margin-bottom: 20px;
+		
+}
+
+#service h4{
+	font-size: 18px;	
+}
+
+#service p{
+	padding-bottom: 30px;
+}
+
+#primera-seccion {
+	/*background-color: #222020;*/
+	background-image: url(../img/paris.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #FFFFFF;
+	text-align: center;
+	/*height: 250px;*/
+	padding: 200px 0;
+}
+
+
+#s2 {
+	background-color: #17AAE8;
+	font-family: Segoe UI;
+	padding: 35px 0;
+	text-align: center;
+	
+	
+}
+#s2 h2{
+	text-align: center;
+}
+
+#s2 p{
+	text-align: center;
+	font-size: 18px;
+}
+#s2 h3{
+	border-radius: 100px;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	
+}
+#s2 p{
+	font-size: 11px;
+	
+}
+
+#s2 article{
+	border: #FFFFFF thin solid;
+	
+}
+
+.circulo {
+	width: 30px;
+	height: 30px;
+	background-color: #fff;
+	border-radius: 100%;
+	margin: auto;
+	margin-top: 20px;
+	
+	
+}
+
+#scroll {
+	padding: 100px 0;
+	
+}
+
+#scroll .info-scroll{
+	text-align: center;
+	margin-bottom: 50px;
+} 
+
+#scroll .info-scroll h4 {
+	font-size: 25px;
+	margin: 20px 0;
+}
+
+#scroll .info-scroll p{
+	margin: 20px 0;
+	
+}
+
+#logos {
+	background-color: #0B0909;
+	padding: 60px 0;
+
+	
+}
+
